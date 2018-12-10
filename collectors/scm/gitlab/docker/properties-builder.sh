@@ -12,7 +12,7 @@ if [ "$TEST_SCRIPT" != "" ]
 then
         #for testing locally
         PROP_FILE=application.properties
-else 
+#else 
 	#PROP_FILE=config/hygieia-gitlab-scm-collector.properties
 	#PROP_FILE=config/application.properties
 fi
